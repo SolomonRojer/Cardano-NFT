@@ -1,0 +1,27 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "name": "<display_name>",
+        "image": "<ipfs_link>",
+        "mediaType": "<mime_type>",
+        "files": [
+          {
+            "name": "<display_name>",
+            "mediaType": "<mime_type>",
+            "src": "<ipfs_link>"
+          }
+        ],
+        "Backgrounds": "Orange",
+        "Body": "Brown Gooska",
+        "Attire": "Blue Football",
+        "Accessories": "Gold Chain",
+        "Headgear": "Green Cap",
+        "Beak": "Gooska Beak",
+        "Website": "https://gooskas.com",
+        "Number of People Killed": 18
+      }
+    },
+    "version": "1.0"
+  }
+}

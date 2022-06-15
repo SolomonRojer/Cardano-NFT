@@ -1,0 +1,27 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "name": "<display_name>",
+        "image": "<ipfs_link>",
+        "mediaType": "<mime_type>",
+        "files": [
+          {
+            "name": "<display_name>",
+            "mediaType": "<mime_type>",
+            "src": "<ipfs_link>"
+          }
+        ],
+        "Backgrounds": "Orange",
+        "Body": "Gray Gooska",
+        "Attire": "Greek Attire",
+        "Accessories": "Yellow Necklace",
+        "Headgear": "Red Beret",
+        "Beak": "Gooska Beak",
+        "Website": "https://gooskas.com",
+        "Number of People Killed": 333
+      }
+    },
+    "version": "1.0"
+  }
+}

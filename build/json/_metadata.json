@@ -1,0 +1,542 @@
+[
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Orange",
+          "Body": "Gray Gooska",
+          "Attire": "Green Football",
+          "Accessories": "Eye Patch",
+          "Headgear": "None",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 261
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Alien Gooska",
+          "Attire": "Overall",
+          "Accessories": "Sunglasses",
+          "Headgear": "Soldier Hat",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 154
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Orange",
+          "Body": "Brown Gooska",
+          "Attire": "Mummy Attire",
+          "Accessories": "Gold Chain",
+          "Headgear": "Halo",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 362
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Alien Gooska",
+          "Attire": "Overall",
+          "Accessories": "Yellow Necklace",
+          "Headgear": "Blue Beret",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 358
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Orange",
+          "Body": "Brown Gooska",
+          "Attire": "Overall",
+          "Accessories": "Sunglasses",
+          "Headgear": "Green Cap",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 174
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Alien Gooska",
+          "Attire": "Mummy Attire",
+          "Accessories": "Sunglasses",
+          "Headgear": "None",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 296
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Gray Gooska",
+          "Attire": "Mummy Attire",
+          "Accessories": "Gold Clock",
+          "Headgear": "None",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 180
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Orange",
+          "Body": "Gray Gooska",
+          "Attire": "Greek Attire",
+          "Accessories": "Yellow Necklace",
+          "Headgear": "Red Beret",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 333
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Brown Gooska",
+          "Attire": "Overall",
+          "Accessories": "Sunglasses",
+          "Headgear": "Red Beret",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 288
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Gray Gooska",
+          "Attire": "Overall",
+          "Accessories": "Yellow Necklace",
+          "Headgear": "Soldier Hat",
+          "Beak": "Zombie Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 397
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Brown Gooska",
+          "Attire": "Soldier Attire",
+          "Accessories": "Green Necklace",
+          "Headgear": "Blue Beret",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 356
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Brown Gooska",
+          "Attire": "Green Football",
+          "Accessories": "Sunglasses",
+          "Headgear": "Red Cap",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 276
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Orange",
+          "Body": "Brown Gooska",
+          "Attire": "Greek Attire",
+          "Accessories": "Glasses",
+          "Headgear": "Halo",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 225
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Orange",
+          "Body": "Brown Gooska",
+          "Attire": "Blue Football",
+          "Accessories": "Gold Chain",
+          "Headgear": "Green Cap",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 18
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Orange",
+          "Body": "Gray Gooska",
+          "Attire": "Overall",
+          "Accessories": "3D Glasses",
+          "Headgear": "None",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 115
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Gray Gooska",
+          "Attire": "Blue Football",
+          "Accessories": "Green Necklace",
+          "Headgear": "Chef's Hat",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 236
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Canary",
+          "Body": "Zombie Gooska",
+          "Attire": "Greek Attire",
+          "Accessories": "Gold Chain",
+          "Headgear": "Red Cap",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 383
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Brown Gooska",
+          "Attire": "Greek Attire",
+          "Accessories": "Green Scarf",
+          "Headgear": "None",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 58
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "Orange",
+          "Body": "Gray Gooska",
+          "Attire": "Mummy Attire",
+          "Accessories": "3D Glasses",
+          "Headgear": "None",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 72
+        }
+      },
+      "version": "1.0"
+    }
+  },
+  {
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "Backgrounds": "White Background",
+          "Body": "Gray Gooska",
+          "Attire": "Overall",
+          "Accessories": "Sunglasses",
+          "Headgear": "Soldier Hat",
+          "Beak": "Gooska Beak",
+          "Website": "https://gooskas.com",
+          "Number of People Killed": 310
+        }
+      },
+      "version": "1.0"
+    }
+  }
+]
